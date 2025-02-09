@@ -4,7 +4,7 @@
 Este sistema permite o agendamento de consultas médicas, facilitando a gestão de atendimentos. Ele foi desenvolvido utilizando **Java** e conta com **interface gráfica**.
 
 ## Funcionalidades
-- 📌 **Cadastro Fucionarios, pacientes e médicos**
+- 📌 **Cadastro fucionarios, pacientes e médicos**
 - 📅 **Agendamento de consultas**
 - 🕒 **Gerenciamento de horários**
 - 💾 **Persistência de dados utilizando DAO**
