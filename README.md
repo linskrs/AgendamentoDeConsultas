@@ -21,9 +21,4 @@ Este sistema permite o agendamento de consultas médicas, facilitando a gestão 
 ## Requisitos
 - ☕ **Java instalado**
 - 🛠 **NetBeans** (recomendado para edição)
-- 🗄 **Banco de dados configurado** (se aplicável)
-
-## Como Executar
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seuusuario/AgendamentoDeConsultas.git
+- 🗄 **Banco de dados configurado** (se aplicável) 
